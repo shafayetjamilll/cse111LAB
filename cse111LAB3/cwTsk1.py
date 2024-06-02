@@ -1,4 +1,3 @@
-#task 1
 
 class BankAccount:
     def __init__(self,user_name,account_type):
